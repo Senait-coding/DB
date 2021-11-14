@@ -1,6 +1,6 @@
 # Round 1
 
-In these exercises we focus solely on writing SQL. Use [the online SQLite viewer](https://inloop.github.io/sqlite-viewer/), upload [our sample database file](file:///C:/Users/Seni/Desktop/databases_chinook-database%20at%20master%20%C2%B7%20HackYourFutureBelgium_databases.html) and start writing those queries!
+In these exercises we focus solely on writing SQL. Use [the online SQLite viewer](https://inloop.github.io/sqlite-viewer/), upload [our sample database file](/databases/chinook-database) and start writing those queries!
 ## Select
 <details><summary>1. Show all artists</summary>
 
